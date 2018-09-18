@@ -1,0 +1,30 @@
+.HomepageComponent {
+    margin-top: -90px;
+    /* margin-bottom: -90px; */
+    padding: 0;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.23)
+}
+
+h4 {
+    text-align: center;
+}
+
+.us{
+    margin-top: 100px
+}
+
+.card{
+    width: 90% !important;
+}
