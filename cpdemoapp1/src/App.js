@@ -4,7 +4,7 @@ import HomepageContainer from "./components/Homepage/HomepageContainer";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import logo from './logo.svg';
 import PoliciesContainer from './components/Policies/PoliciesContainer';
-import AccountContainer from './components/Account/AccountContainer';
+import AccountContainer from './components/Account/Account';
 import FooterContainer from './components/Footer/FooterContainer';
 // import './App.css';
 

@@ -1,13 +1,6 @@
 import React from "react";
 import {Row, Col, Card, CardTitle} from 'react-materialize'
 import "./Homepage.css";
-// import carol from "./images/carol.jpg";
-// import david from "./images/david.jpg";
-// import pritha from "./images/pritha.jpg";
-// import nate from "./images/nate.jpg";
-
-//super means start up the library
-
 
 class HomepageContainer extends React.Component {
 
